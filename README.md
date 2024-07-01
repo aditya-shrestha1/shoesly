@@ -1,6 +1,6 @@
 # shoesly
 
-PrioritySoft Coding Test Project
+A shoes app built with Flutter & Firebase
 
 ## Getting Started
 
